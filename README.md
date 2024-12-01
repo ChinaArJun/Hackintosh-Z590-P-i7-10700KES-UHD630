@@ -30,8 +30,10 @@
 
 
 ## 完成好后如图
-![image](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/image0.png)
 
 ![WX20241201-151445](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/WX20241201-151445.png)
 
 ![IMG_7664](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/IMG_7664.jpg)
+
+
+![image](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/image0.png)
