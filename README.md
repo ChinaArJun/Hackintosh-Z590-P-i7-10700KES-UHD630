@@ -31,3 +31,7 @@
 
 ## 完成好后如图
 ![image](./screenshot/image0.png)
+
+![WX20241201-151445](./screenshot/WX20241201-151445.png)
+
+![IMG_7664](./screenshot/IMG_7664.jpg)
