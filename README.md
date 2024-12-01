@@ -17,7 +17,7 @@
 ## 安装步骤二 生成基础 EFI 文件：
 
 1. 下载[RapidEFI](https://github.com/JeoJay127/RapidEFI-Tool/releases)
-2. 配置基础配置文件，可以通过无限卡模式进入登录页面
+2. 配置基础配置文件，可以通过无显卡模式先进入登录页面
 
 ## 安装步骤三 集成显卡驱动：
 1. 使用MonitorAsset manager 2.9 版本，查看当前显示器信息,一般均为第一个选项，可以查看到很多显示器信息
@@ -26,12 +26,12 @@
 4  注意 AAPL00 代表一个显示器，如果增加多个可能会导致有多个显示器选项，最好多测试验证  
 5  将 config.plist 文件保存，并替换到 EFI 文件夹内
 
-![image](./screenshot/image2.png)
+![image](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/image2.png)
 
 
 ## 完成好后如图
-![image](./screenshot/image0.png)
+![image](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/image0.png)
 
-![WX20241201-151445](./screenshot/WX20241201-151445.png)
+![WX20241201-151445](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/WX20241201-151445.png)
 
-![IMG_7664](./screenshot/IMG_7664.jpg)
+![IMG_7664](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/IMG_7664.jpg)
