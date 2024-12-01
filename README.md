@@ -37,3 +37,10 @@
 
 
 ![image](https://raw.githubusercontent.com/ChinaArJun/Hackintosh-Z590-P-i9-10900KES-UHD630/refs/heads/main/screenshot/image0.png)
+
+## 参考链接
+[【老吴黑苹果】macOS Sequoia 15.0恢复版镜像下载](https://github.com/MonitorAsset/MonitorAssetManager/releases))
+
+[RapidEFI 配置](https://www.bilibili.com/video/BV1nE42157pb/?spm_id_from=333.337.search-card.all.click&vd_source=03a4261f85c1ab9e5400390473251cb6)
+
+[核显配置教程](https://www.bilibili.com/video/BV1UW4y1J7J2/?spm_id_from=333.788.top_right_bar_window_history.content.click)
