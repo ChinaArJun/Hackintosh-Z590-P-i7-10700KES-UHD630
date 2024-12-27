@@ -110,7 +110,7 @@
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
-                    <data>CQClPg==</data>
+                    <data>BwCbPg==</data>
                     <key>AAPL00,override-no-connect</key>
                     <data>AP///////wBM9AAnChoAABweAQOAPCF4Kox1qVRFmCIeUFQFCwBxQIHAgYCVAKnAswDRwNEAVl4AoKCgKVAwIDUAWUkhAAAaAAAA/QAokR/XPwAKICAgICAgAAAA/ABNb25pdG9yCiAgICAgAAAA/wAgICAgICAgICAgICAKAa0CA0TySgQFEBMUHyAhIgDiAP/jBcAAIwkHB4MBAADlDwAADABnAwwAAAA5fuYGBQFpaQBoGgAAAQEokOZn2F3EAX6IAdS8AKCgoClQMCA1ALmIIQAAHqbeAIygoBpQMCA1ALmIIQAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASg==</data>
                     <key>device-id</key>
